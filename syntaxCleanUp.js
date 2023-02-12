@@ -5,7 +5,7 @@ var foods = {
 }
 
 var person = {
-  height: "6 ft"
+  height: "6 ft",
   weight: "160 lbs"
 }
 
